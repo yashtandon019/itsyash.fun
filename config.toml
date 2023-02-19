@@ -2,6 +2,7 @@ baseURL = "https://itsyash.fun"
 title   = "Yash Tandon"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+googleAnalytics = "G-CYXTD7T4J9"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
