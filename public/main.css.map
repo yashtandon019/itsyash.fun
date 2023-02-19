@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/yash/Desktop/themes/itsyash.me/exampleSite",
+	"sourceRoot": "/Users/yash/Desktop/themes/itsyash.me",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
