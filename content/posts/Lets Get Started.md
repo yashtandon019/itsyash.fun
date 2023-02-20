@@ -16,7 +16,7 @@ series:
 If you're working with Kubernetes, chances are you've heard of Cilium, a popular networking and security solution for Kubernetes that provides efficient and secure network connectivity between services. However, as your cluster grows in size, managing Cilium becomes a challenge. In this blog post, we'll explore some best practices and techniques for scaling up your network with Jedi-like Cilium handling techniques.
 
 ## Understanding Cilium Architecture
-$$
+
 Before we dive into handling Cilium at scale, let's understand the architecture of Cilium. Cilium is implemented as a Kubernetes CNI plugin and uses BPF (Berkeley Packet Filter) for packet filtering and network visibility. It leverages the Linux kernel's networking stack to provide a high-performance data plane and can integrate with Kubernetes API to enforce security policies.
 
 Cilium is a powerful networking and security solution for Kubernetes that utilizes the eBPF (extended Berkeley Packet Filter) technology. The main components of Cilium architecture are:
