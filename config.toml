@@ -203,4 +203,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "Resume"
     name       = "Resume"
-    url        = "https://tinyurl.com/yash1912"
+    url        = 'https://itsyash.fun/yash-tandon.pdf'
