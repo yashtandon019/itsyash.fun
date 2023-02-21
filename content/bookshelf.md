@@ -6,8 +6,8 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Yash Tandon"
 +++
 
- Welcome to my Digital Library! \
- These are All Books that i currently own - I have broadly divided them into tech and non-tech, if you think i should checkout some other book as well reach out to me! 
+ Welcome to my Digital Library! 💗 \
+ These are All Books that i currently own - I have broadly divided them into few relevant sections, if you think i should checkout some other book as well reach out to me! 
 > ⭐️ - These are my personal favorites
 
 ## Read
@@ -48,6 +48,11 @@ aliases = ["about-us","about-hugo","contact"]
 - [Sapiens: A Brief History of Humankind](https://amzn.eu/d/2qhKCnh) ⭐️
 - [21 Lessons for the 21st Century](https://amzn.eu/d/a8NztdI) ⭐️
 - [Homo Deus: A Brief History of Tomorrow](https://amzn.eu/d/dz3LFUS)
+
+### Poetry
+
+- [Best Of Sahir Ludhianvi](https://amzn.eu/d/8UAkX4e) - ⭐️
+- Best Of Faiz - ⭐️
 
 ## Currently Reading
 
