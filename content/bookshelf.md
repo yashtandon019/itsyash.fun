@@ -27,6 +27,9 @@ aliases = ["about-us","about-hugo","contact"]
 - [The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness](https://amzn.eu/d/aJqUrPX)
 - [Coffee Can Investing](https://amzn.eu/d/5mNS0xw)
 - [Good Economics for Hard Times](https://amzn.eu/d/5eeK1w8)
+- [Atomic Habits](https://amzn.eu/d/0Qyjj60)
+- [The Almanack Of Naval Ravikant](https://amzn.eu/d/1fiw4Aj)
+- [The Compound Effect](https://amzn.eu/d/bzHVdEl)
 
 ## Currently Reading
 
@@ -34,5 +37,22 @@ aliases = ["about-us","about-hugo","contact"]
 
 ### Tech
 
-- [Software Architecture: The Hard Parts](https://amzn.eu/d/gSQjltA)
 - [Designing Data Intensive Applications](https://amzn.eu/d/9WkEBEM)
+
+### Personal Finance / Self Improvement
+
+- [Lets Talk Money](https://amzn.eu/d/jesB0ga)
+- [Essentialism](https://amzn.eu/d/1OTBNZ5)
+
+## To-Read List
+
+---
+
+### Tech
+
+- [Linux Observability with BPF](https://amzn.eu/d/aZo9ZZW)
+- [Software Architecture: The Hard Parts](https://amzn.eu/d/gSQjltA)
+
+### Non-Tech
+
+- [Seth Godin: Linchpin](https://amzn.eu/d/bPwsVdR)
